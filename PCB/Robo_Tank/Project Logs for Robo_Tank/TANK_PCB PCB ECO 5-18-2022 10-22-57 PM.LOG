@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=VP Pin=U1-3
+Removed Pin From Net: NetName=S_VN Pin=U1-4
+Removed Pin From Net: NetName=IO34 Pin=U1-5
+Removed Pin From Net: NetName=IO35 Pin=U1-6
+Removed Pin From Net: NetName=IO27 Pin=U1-11
+Removed Pin From Net: NetName=IO14 Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=IO13 Pin=U1-15
+Removed Pin From Net: NetName=+5 Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Pin From Net: NetName=IO22 Pin=U1-22
+Removed Pin From Net: NetName=IO21 Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=IO5 Pin=U1-29
+Added Component: Designator=*(ESP32-WROOM-32D DEV_BOARD-Footprint-1)
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-WROOM-32D DEV_BOARD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ESP32-WROOM-32D_DEV_BOARD.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPPR55-200-1100X500X1200)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "65mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "65mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin *-5
+Add Pin To Net: Unknown Pin: Pin *-6
+Add Pin To Net: Unknown Pin: Pin *-11
+Add Pin To Net: Unknown Pin: Pin *-12
+Add Pin To Net: Unknown Pin: Pin *-14
+Add Pin To Net: Unknown Pin: Pin *-19
+Add Pin To Net: Unknown Pin: Pin *-29
+Add Pin To Net: Unknown Pin: Pin *-32
+Add Pin To Net: Unknown Pin: Pin *-33
+Add Pin To Net: Unknown Pin: Pin *-36
+Add Pin To Net: Unknown Pin: Pin *-38
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=Net*_2 Pin=C1-1
+Added Net: Name=Net*_2

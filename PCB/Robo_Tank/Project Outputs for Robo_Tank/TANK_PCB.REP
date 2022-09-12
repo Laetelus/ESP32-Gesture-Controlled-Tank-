@@ -1,0 +1,66 @@
+*************************************************************
+FileName = TANK_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : TANK_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TANK_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TANK_PCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TANK_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D24
+*************************************************************
+

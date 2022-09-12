@@ -1,0 +1,10 @@
+Output: EDIF for PCB
+Type  : EDIF
+From  : Project [Free Documents]
+   Generated File[Tank_Schematic.EDF]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:20:17 AM On 5/7/2022

@@ -1,0 +1,6 @@
+Update Managed Component C1 From CMP-001-00015-6[Capacitor 10 uF +/- 10% 16 V 0805] To CMP-001-00015-6[Capacitor 10 uF +/- 10% 16 V 0805] in Tank_Schematic.SchDoc
+Replace Part P1 Header 4 in C:\Users\angel\Dropbox\Altium Projects\Robo_Tank\Tank_Schematic.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 5 in C:\Users\angel\Dropbox\Altium Projects\Robo_Tank\Tank_Schematic.SchDoc with Header 5 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 4 in C:\Users\angel\Dropbox\Altium Projects\Robo_Tank\Tank_Schematic.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part P4 Header 2 in C:\Users\angel\Dropbox\Altium Projects\Robo_Tank\Tank_Schematic.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Update Managed Component SW1 From CMP-10038-000019-1[1101M2S3CQE2] To CMP-10038-000019-1[1101M2S3CQE2] in Tank_Schematic.SchDoc

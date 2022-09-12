@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=FING NewDesignator=P3
+Change Component Designator: OldDesignator=JOYSTICK NewDesignator=P2
+Change Component Designator: OldDesignator=OLED NewDesignator=P1
+Change Component Designator: OldDesignator=VIB NewDesignator=P4

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=MINI-360-3
+Added Pin To Net: NetName=GND Pin=MINI-360-4
+Added Pin To Net: NetName=NetMINI-360_3 Pin=MINI-360-3
+Added Pin To Net: NetName=NetMINI-360_3 Pin=P?-1
+Added Net: Name=NetMINI-360_3

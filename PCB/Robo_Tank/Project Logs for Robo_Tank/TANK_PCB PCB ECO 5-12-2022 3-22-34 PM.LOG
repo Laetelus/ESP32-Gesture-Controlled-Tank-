@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VN Pin=FLEX-3
+Change Component Designator: OldDesignator=FLEX NewDesignator=P3
+Change Component Designator: OldDesignator=JOY NewDesignator=P2
+Change Component Designator: OldDesignator=OLED NewDesignator=P1
+Change Component Designator: OldDesignator=SW NewDesignator=P5
+Change Component Designator: OldDesignator=VIB NewDesignator=P4
+Added Pin To Net: NetName=IO13 Pin=P2-3
+Added Pin To Net: NetName=IO13 Pin=U1-15
+Added Net: Name=IO13
+Added Pin To Net: NetName=IO14 Pin=P2-4
+Added Pin To Net: NetName=IO14 Pin=U1-12
+Added Net: Name=IO14
+Added Pin To Net: NetName=IO27 Pin=P2-5
+Added Pin To Net: NetName=IO27 Pin=U1-11
+Added Net: Name=IO27
