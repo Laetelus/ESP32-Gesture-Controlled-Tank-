@@ -8,7 +8,7 @@
 
 
 //flex sensor pins
-int fing[4] = {A7, A6, A3, A0}; 
+const int fing[4] = {A7, A6, A3, A0}; 
 
 
 //MPU testing 
