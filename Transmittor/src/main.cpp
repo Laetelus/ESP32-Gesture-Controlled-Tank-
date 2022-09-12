@@ -144,7 +144,7 @@ void loop() {
  //delay(200);
 }
 
-//function to convert accelerometer values into pitch and roll
+// convert accelerometer values into pitch and roll
 void getAngle(int Ax,int Ay,int Az) 
 {
     double x = Ax;
