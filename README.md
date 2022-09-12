@@ -1,5 +1,7 @@
 # ESP32-Gesture-Controlled-Tank-
 An ongoing project that uses an IMU and flexsensors to operate a tank
+![image](https://user-images.githubusercontent.com/72906227/189565658-71d675bd-e682-419a-b063-e8621e59a03b.png)
+
 
 # Components 
 
