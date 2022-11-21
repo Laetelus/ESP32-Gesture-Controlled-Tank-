@@ -5,8 +5,7 @@ An ongoing project that uses an IMU and flexsensors to operate a tank
   
  <img src="https://user-images.githubusercontent.com/72906227/189572957-e2ed73ae-ee11-4dec-8f47-375bf29fe487.jpeg" width=20% height=20%>
 
-
-> <img src="https://media.giphy.com/media/4oUSZew9LKDBzFtyRr/giphy.gif" width=200><br>
+ <img src="https://media.giphy.com/media/4oUSZew9LKDBzFtyRr/giphy.gif" width=20%><br>
 
 # Components 
 
